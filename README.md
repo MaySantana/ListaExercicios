@@ -1,2 +1,3 @@
 # ListaExerciciosJava
-Lista de exercicios em Java 
+
+Resolução da Lista de Exercicios 13 em Java do curso Java Básico da Loiane Groner
