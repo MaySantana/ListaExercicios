@@ -18,7 +18,7 @@ public class Main
 		System.out.println("Informe o número de horas trabalhadas no mês");
 		horas = scan.nextInt();
 		
-		double salario = ganha_por_hora * horas * 30;
+		double salario = ganha_por_hora * horas;
 		System.out.printf("O salário é igual a %.2f", salario);
 		
 	}
